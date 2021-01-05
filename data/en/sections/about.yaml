@@ -1,0 +1,43 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+#company:
+#  name: Example Co.
+#  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: | 
+  '저는 빅데이터와 머신러닝/딥러닝에 관심이 있는 개발자입니다. 특히 실시간 처리에 관심이 많습니다.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Juhong-Namgung"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/%EC%A3%BC%ED%99%8D-%EB%82%A8%EA%B6%81-04711b157/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+#softSkills:
+#- name: Leadership
+#  percentage: 85
+#  color: blue
+#- name: Team Work
+#  percentage: 90
+#  color: yellow
