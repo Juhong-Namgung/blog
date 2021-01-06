@@ -10,9 +10,9 @@ languages:
   kr:
     languageName: Korean
     weight: 1
-  en:
-    languageName: English
-    weight: 1
+#  en:
+#    languageName: English
+#    weight: 1
 
 defaultContentLanguage: kr
 
