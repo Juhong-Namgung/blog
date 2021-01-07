@@ -1,0 +1,33 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Storm
+  logo: /images/sections/skills/storm.png
+  summary: "실시간 분산 처리 프레임워크인 Apache Storm을 사용합니다."
+
+- name: Kafka
+  logo: /images/sections/skills/kafka.png
+  summary: "클러스터 환경에서 메시징 큐로 Kafka를 활용합니다."
+
+- name: Deep Learning
+  logo: /images/sections/skills/dl.png
+  summary: "TensorFlow, Keras, PyTorch를 활용하여 딥러닝 모델을 개발할 수 있습니다."
+
+- name: Java, Python
+  logo: /images/sections/skills/java-python.png
+  summary: "Java와 python을 주 언어로 사용합니다."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "CentOS, Ubuntu와 같은 리눅스 환경을 사용합니다. 서버를 구축하고 운영할 수 있습니다."
