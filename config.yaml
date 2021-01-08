@@ -28,6 +28,7 @@ enableEmoji: true
 
 # Site parameters
 params:
+  
   # GitHub repo URL of your site
   gitRepo: https://github.com/Juhong-Namgung/Juhong-Namgung.github.io
 
