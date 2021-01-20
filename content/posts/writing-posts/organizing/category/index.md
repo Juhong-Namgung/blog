@@ -3,7 +3,6 @@ title: "Creating Category"
 date: 2020-06-08T06:15:55+06:00
 author:
   name: Md.Habibur Rahman
-  image: /images/author/habib.jpg
 menu:
   sidebar:
     name: Creating Category

@@ -1,7 +1,6 @@
 ---
 title: "Markdown Syntax Guide"
 date: 2020-06-08T06:15:40+06:00
-hero: /images/posts/writing-posts/code.svg
 menu:
   sidebar:
     name: Markdown Guide
